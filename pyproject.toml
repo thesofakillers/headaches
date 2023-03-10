@@ -2,6 +2,7 @@
 name = "Headaches"
 version = "0.1.0"
 description = "Various analysis of my headaches"
+authors = ["Giulio Starace <giulio.starace@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
